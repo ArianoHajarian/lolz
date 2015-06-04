@@ -1,12 +1,8 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="movement_forward" id="80" x="-27" y="9">
     <next>
-      <block type="movement_stop" id="136">
-        <next>
-          <block type="oled_color" id="145">
-            <field name="OBJECT">GREEN</field>
-          </block>
-        </next>
+      <block type="oled_color" id="145">
+        <field name="OBJECT">GREEN</field>
       </block>
     </next>
   </block>
