@@ -1,0 +1,10 @@
+{
+    "name": "lolz",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "lolz.xml",
+    "author": "ArianoHajarian",
+    "minimum_firmware_version": 42
+}
